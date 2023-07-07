@@ -12,7 +12,6 @@ BOT_NAME = "chanel_scraper"
 SPIDER_MODULES = ["chanel_scraper.spiders"]
 NEWSPIDER_MODULE = "chanel_scraper.spiders"
 
-SCRAPEOPS_API_KEY = '419efc17-ee9c-4c04-a3fa-1afbb50fd908'
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = True
 SCRAPEOPS_FAKE_BROWSER_HEADER_ENABLED = True
 
